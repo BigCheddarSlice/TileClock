@@ -1,6 +1,0 @@
-[submodule "aiohttp"]
-	path = aiohttp
-	url = https://github.com/aio-libs/aiohttp.git
-[submodule "pytile"]
-	path = pytile
-	url = https://github.com/bachya/pytile.git
